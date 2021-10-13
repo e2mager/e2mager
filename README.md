@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @e2mager
 - 👀 Currently I’m interested in python, algorithms and investment management
+- 🔥 Currently currently interested in c plus plus and algorithms
+- 🌱 I’m currently learning c++
 
 <!---
-
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
